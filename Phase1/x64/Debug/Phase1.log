@@ -1,0 +1,5 @@
+﻿  AdminMenu.cpp
+D:\Phase1\Phase1\AdminMenu.cpp(219,9): warning C4101: 'salary': unreferenced local variable
+  Person.cpp
+  Generating Code...
+  Phase1.vcxproj -> D:\Phase1\x64\Debug\Phase1.exe
